@@ -1,0 +1,5 @@
+# tag: chemical sum, target Cs, other isotopes separated by comas
+# Precursor: C4Si2
+# Precursor: C4Si1
+Comp22: Precursor: 13C4, Si2
+Comp22: Product Ion: 13C4, Si1

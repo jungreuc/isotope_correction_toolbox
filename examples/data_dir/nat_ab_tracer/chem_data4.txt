@@ -1,0 +1,5 @@
+# tag: chemical sum, target Cs, other isotopes separated by comas
+# Precursor: C5C5
+# Production Ion: C5C5
+Comp1: Precursor: 13C5,C5
+Comp1: Product Ion: 13C5,C5

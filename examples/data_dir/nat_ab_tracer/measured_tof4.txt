@@ -1,0 +1,6 @@
+Comp1_M0, 10000
+Comp1_M1, 9000
+Comp1_M2, 8000
+Comp1_M3, 7000
+Comp1_M4, 6000
+Comp1_M5, 5000

@@ -1,0 +1,3 @@
+# tag: chemical sum, target Cs, other isotopes separated by comas
+Comp1: Precursor: 18O4, Si2
+Comp1: Product Ion: 18O2, Si1

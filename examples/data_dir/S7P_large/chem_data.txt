@@ -1,0 +1,5 @@
+# tag: chemical sum, target isotope, other isotopes separated by comas
+# Precursor: C29H73N1O10P1Si7
+# Product Ion: C29H73N1O10P1Si7
+S7P:Precursor: 13C7, Si7, O10, N1, C22, H73, P1
+S7P:Product Ion: 13C7, Si7, O10, N1, C22, H73, P1

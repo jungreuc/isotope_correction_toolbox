@@ -1,0 +1,7 @@
+CitrateNofrag_M0.0, 4619496
+CitrateNofrag_M1.1, 1467744
+CitrateNofrag_M2.2, 964749
+CitrateNofrag_M3.3, 218542
+CitrateNofrag_M4.4, 59726
+CitrateNofrag_M5.5, 10680
+CitrateNofrag_M6.6, 3312

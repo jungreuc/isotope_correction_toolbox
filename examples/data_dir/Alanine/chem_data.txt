@@ -1,0 +1,5 @@
+# tag: chemical sum, target Cs, other isotopes separated by comas
+# Precursor: C8H19NO2Si2
+# Product Ion: C7H19NO1Si2
+Alanine: Precursor: 13C3, Si2, C5
+Alanine: Product Ion: 13C2, Si2, C5

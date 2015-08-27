@@ -1,0 +1,4 @@
+# tag: chemical sum, target Cs, other isotopes separated by comas
+# Not fragmented: C18Si4
+CitrateNofrag: Precursor: 13C6, Si4, C12
+CitrateNofrag: Product Ion: 13C6, Si4, C12

@@ -1,0 +1,5 @@
+# tag: chemical sum, target Cs, other isotopes separated by comas
+# Precursor: C5H12NO2S+
+# Product Ion: C3H6N+
+Met: Precursor: 13C5, S1
+Met: Product Ion: 13C3, S0

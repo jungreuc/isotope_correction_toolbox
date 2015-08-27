@@ -1,0 +1,6 @@
+Alanine_M0.0, 10000
+Alanine_M1.0, 3000
+Alanine_M1.1, 3000
+Alanine_M2.1, 5000
+Alanine_M2.2, 2000
+Alanine_M3.2, 7000

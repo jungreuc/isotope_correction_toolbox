@@ -1,0 +1,5 @@
+# tag: chemical sum, target Cs, other isotopes separated by comas
+# Precursor: C4Si2
+# Product Ion: C3Si1
+Comp23: Precursor: 13C4, Si2
+Comp23: Product Ion: 13C3, Si1

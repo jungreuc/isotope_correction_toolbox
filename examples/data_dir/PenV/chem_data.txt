@@ -1,0 +1,5 @@
+# tag: chemical sum, target Cs, other isotopes separated by comas
+# Precursor: C16H19N2O5S+
+# Product Ion: C6H10NO2S+
+PenV: Precursor: 13C16, S1
+PenV: Product Ion: 13C6, S1

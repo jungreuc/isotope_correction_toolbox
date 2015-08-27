@@ -1,0 +1,6 @@
+Alanine:10000.00
+Alanine:3000.00
+Alanine:1431.20
+Alanine:4529.36
+Alanine:1008.91
+Alanine:6059.47

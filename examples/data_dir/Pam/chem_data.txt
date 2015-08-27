@@ -1,0 +1,5 @@
+# tag: chemical sum, target Cs, other isotopes separated by comas
+# Precursor: C10H21N2O4S2+
+# Product Ion: C5H10NO2S2+
+Pam: Precursor: 13C10, S2
+Pam: Product Ion: 13C5, S2

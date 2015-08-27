@@ -1,0 +1,5 @@
+# tag: chemical sum, target Cs, other isotopes separated by comas
+# Precursor: C8H13N2O3S+
+# Product Ion: C7H13N2O2S+
+6APA:Precursor: 13C8, S1
+6APA:Product Ion: 13C7, S1

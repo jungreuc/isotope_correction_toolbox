@@ -1,0 +1,5 @@
+# tag: chemical sum, target Cs, other isotopes separated by comas
+# Precursor: C18H41O7Si4
+# Product Ion: C11H21O4Si2
+Cit:Precursor: 13C6, H41, O7, Si4, C12
+Cit:Product Ion: 13C5, H21, O4, Si2, C6

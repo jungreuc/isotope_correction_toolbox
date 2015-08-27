@@ -1,0 +1,139 @@
+# comment lines start with a hash mark '#'
+# hash key (e.g. AAA): backbone element, list of other elements
+AAA:Precursor:13C6,Si3,C9
+AAA:Product Ion:13C6,Si2,C6
+
+Aco:Precursor:13C6,Si3,C9
+Aco:Product Ion:13C6,Si1,C3
+
+Ala:Precursor:13C3,Si2,C6
+Ala:Product Ion:13C2,Si1,C3
+
+Val:Precursor:13C5,Si2,C5
+Val:Product Ion:13C4,Si1,C3
+
+Ser:Precursor:13C3,Si2,C6
+Ser:Product Ion:13C2,Si1,C3
+
+Leu:Precursor:13C5,Si2,C6
+Leu:Product Ion:13C4,Si1,C3
+
+Leu2:Precursor:13C5,Si2,C6
+Leu2:Product Ion:13C5,Si2,C6
+
+Thr:Precursor:13C4,Si2,C6
+Thr:Product Ion:13C3,Si1,C3
+
+Suc:Precursor:13C4,Si2,C6
+Suc:Product Ion:13C4,Si1,C3
+
+Ile:Precursor:13C5,Si2,C6
+Ile:Product Ion:13C4,Si1,C3
+
+Ile2:Precursor:13C5,Si2,C6
+Ile2:Product Ion:13C5,Si2,C6
+
+Pro:Precursor:13C5,Si2,C6
+Pro:Product Ion:13C5,Si1,C3
+
+Gly:Precursor:13C2,Si3,C9
+Gly:Product Ion:13C2,Si3,C9
+
+Fum:Precursor:13C4,Si2,C6
+Fum:Product Ion:13C3,Si1,C3
+
+H-Ser:Precursor:13C4,Si2,C6
+H-Ser:Product Ion:13C3,Si1,C3
+
+Asp:Precursor:13C4,Si2,C6
+Asp:Product Ion:13C3,Si1,C3
+
+Mal:Precursor:13C4,Si3,C9
+Mal:Product Ion:13C1,Si2,C6
+
+Glu:Precursor:13C5,Si3,C9
+Glu:Product Ion:13C4,Si2,C6
+
+Phe:Precursor:13C9,Si2,C6
+Phe:Product Ion:13C8,Si1,C3
+
+Asn:Precursor:13C4,Si3,C9
+Asn:Product Ion:13C2,Si1,C3
+
+Gln:Precursor:13C5,Si3,C9
+Gln:Product Ion:13C4,Si2,C5
+
+2PG:Precursor:13C3,Si4,C12
+2PG:Product Ion:13C2,Si3,C9
+
+DHAP:Precursor:13C3,Si3,C11
+DHAP:Product Ion:13C2,Si1,C3
+
+3PG:Precursor:13C3,Si4,C12
+3PG:Product Ion:13C2,Si3,C9
+
+I-Cit:Precursor:13C6,Si4,C12
+I-Cit:Product Ion:13C4,Si2,C7
+
+Cit:Precursor:13C6,Si4,C12
+Cit:Product Ion:13C5,Si2,C6
+
+Lys:Precursor:13C6,Si3,C9
+Lys:Product Ion:13C5,Si2,C6
+
+Tyr:Precursor:13C9,Si2,C6
+Tyr:Product Ion:13C8,Si1,C3
+
+LCT:Precursor:13C7,Si4,C12,S1
+LCT:Product Ion:13C4,Si2,C6,S1
+
+K-Val:Precursor:13C5,Si1,C5
+K-Val:Product Ion:13C1,Si1,C3
+
+Fru:Precursor:13C6,Si5,C16
+Fru:Product Ion:13C6,Si5,C16
+			
+E4P:Precursor:13C4,Si4,C13
+E4P:Product Ion:13C4,Si4,C13
+			
+Glc:Precursor:13C6,Si5,C16
+Glc:Product Ion:13C6,Si5,C16
+			
+Man-OL:Precursor:13C6,Si6,C17
+Man-OL:Product Ion:13C6,Si6,C17
+			
+Glc-ON:Precursor:13C6,Si6,C17
+Glc-ON:Product Ion:13C6,Si6,C17
+			
+Rl5P:Precursor:13C5,Si5,C16
+Rl5P:Product Ion:13C5,Si5,C16
+			
+R5P:Precursor:13C5,Si5,C16
+R5P:Product Ion:13C5,Si5,C16
+			
+F6P:Precursor:13C6,Si6,C19
+F6P:Product Ion:13C6,Si6,C19
+			
+G6P:Precursor:13C6,Si6,C19
+G6P:Product Ion:13C6,Si6,C19
+			
+M6P:Precursor:13C6,Si6,C19
+M6P:Product Ion:13C6,Si6,C19
+			
+Mt1P:Precursor:13C6,Si7,C20
+Mt1P:Product Ion:13C6,Si7,C20
+			
+6PGA:Precursor:13C6,Si7,C20
+6PGA:Product Ion:13C6,Si7,C20
+			
+S7P:Precursor:13C7,Si7,C22
+S7P:Product Ion:13C7,Si7,C22
+			
+K-Ile:Precursor:13C6,Si1,C5
+K-Ile:Product Ion:13C6,Si1,C5
+
+GAP:Precursor:13C3,Si3,C11
+GAP:Product Ion:13C3,Si3,C11
+
+Glc-ON:Precursor:13C6,Si6,C17
+Glc-ON:Product Ion:13C6,Si6,C17

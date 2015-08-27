@@ -1,0 +1,5 @@
+# tag: chemical sum, target Cs, other isotopes separated by comas
+# Precursor: C14H26N3O6S+
+# Product Ion: C8H17N2O3S+
+ACV: Precursor: 13C14, S1
+ACV: Product Ion: 13C8, S1

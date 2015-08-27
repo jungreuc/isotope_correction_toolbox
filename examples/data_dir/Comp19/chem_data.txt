@@ -1,0 +1,5 @@
+# tag: chemical sum, target Cs, other isotopes separated by comas
+# Precursor: C4Si2
+# Production Ion: C2Si2
+Comp19: Precursor: 13C4, Si2
+Comp19: Product Ion: 13C2, Si2
